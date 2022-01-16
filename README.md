@@ -7,9 +7,9 @@
 
 ## :point_right: Description
 
-### Budget App is  a  web  application  provides management for user's incomes and expenses and calculate the current 
+### Budget  App  is   a   web   application   provides management for user's incomes and expenses and calculate the  
 
-### user budget based on registered incomes and expenses. 
+### current user budget based on registered incomes and expenses. 
 
 
 
