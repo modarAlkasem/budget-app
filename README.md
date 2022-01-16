@@ -7,9 +7,9 @@
 
 ## :point_right: Description
 
-### Budget App is  a  web  application  provides management for user's incomes and expenses and calculate the ### 
+### Budget App is  a  web  application  provides management for user's incomes and expenses  ### 
 
-### current user budget based on registered incomes and expenses.  ###
+### and calculate the current user budget based on registered incomes and expenses.  ###
 
 
 
@@ -60,7 +60,7 @@ git clone https://github.com/modarAlkasem/budget-app.git
 
  [CSS]: As styling language
 
- [JavaScript]: For create dynamic page
+ [JavaScript]: As programming language
 
 
 
