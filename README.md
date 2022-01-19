@@ -33,7 +33,7 @@
 ## 📂 Screen Shots
 
 <p align="center">
-  <a href="/screen-shots/budget-app.png" title="screenShot-budget-app">
+  <a href="https://raw.github.com/modarAlkasem/budget-app/main/screen-shots/budget-app.png" title="screenShot-budget-app">
     <img src="https://raw.github.com/modarAlkasem/budget-app/main/screen-shots/budget-app.png" width="100%" alt="screenShot-budget-app"/>
   </a>
 </p>
