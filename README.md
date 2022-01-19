@@ -70,7 +70,7 @@ git clone https://github.com/modarAlkasem/budget-app.git
 
 - 🌌 [Profile](https://github.com/modarAlkasem/ "Modar Alkasem")
 
-- 🏮 [Email](mailto:modarAlkasem@gmail.com?subject=Hi%20from%20official-university-archive "modarAlkasem@gmail.com")
+- 🏮 [Email](mailto:modaralkasem@gmail.com?subject=Hi%20from%20official-university-archive "modaralkasem@gmail.com")
 
 
 
